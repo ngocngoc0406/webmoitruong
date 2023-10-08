@@ -1,0 +1,67 @@
+.nav-content{
+    margin-top:0px;
+}
+li.menu{
+    color: yellow;
+    font-size: 20px;
+    padding: 0px 18px;
+}
+.tieude{
+    margin: 10px;
+    margin-left: 5px;
+    font-weight: bold;
+    
+}
+.all-content{
+    margin-left: 3px;
+    padding: 15px;
+    text-align: justify;
+    border: 1px solid rgb(31 195 27);
+    border-radius: 10px;
+}
+.nav-right{
+    border: 1px solid green;
+    margin-left: 7px;
+    border-radius: 10px;
+}
+hr.new {
+    border-top: 4px solid  blueviolet;
+  }
+.img{
+     margin-left: auto; margin-right: auto;
+}
+.tinhtrang-onhiem{
+    color: red;
+    font-weight: bolder;
+}
+.tinhtrang-onhiem:hover{
+    color: blue;
+}
+.menu-right{
+    padding: 12px 0px;
+    text-decoration-style: none;
+}
+.block-img{
+    margin: 4px;
+    padding: 10px;
+    
+}
+.img-show{
+    border-radius: 10%;
+    width: 200px;
+    height: inherit;
+    padding: 10px;
+}
+.img-center{
+    display: flex;
+    justify-content: center;
+}
+.name-img{
+    display: flex;
+    justify-content: center;
+   
+}
+.giaiphap{
+    padding: 10px;
+    font-size: 16px;
+}
